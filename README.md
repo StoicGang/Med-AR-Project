@@ -33,7 +33,7 @@ Click the image above to watch a demo video showcasing MED AR.
 
 Follow these steps to install and use MED AR
 
-1. **Download the MED AR Application**: Download the MED AR application from [https://drive.google.com/drive/folders/133V791IhyKdw1_VmW85pOIvpMXZ_t54U).
+1. **Download the MED AR Application**: Download the MED AR application from [https://drive.google.com/drive/u/0/folders/1zaz7FpwBNkl-hr-gi65DfIJxq5UqB9S7].
    
 2. **Install the Application**:
    - Navigate to the downloaded file and install the application on your AR-compatible device.
